@@ -1,2 +1,3 @@
-# Test
-I'm new on github, i've heard a lot of good things about it and  I decided to explore it myself. I am studying to become a data scientist and I hope to find solutions to problems. 
+# Visualizing Gender Gap in College Degrees
+This project aims to show the gender gap in college degrees from 1968 to 2011. 
+At the conclusion you will find the breakdown of the college degree across different majors.
