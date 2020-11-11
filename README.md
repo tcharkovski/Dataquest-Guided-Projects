@@ -1,2 +1,6 @@
-# Test
-I'm new on github, i've heard a lot of good things about it and  I decided to explore it myself. I am studying to become a data scientist and I hope to find solutions to problems. 
+# Analysis on how dissatisfacton plays a role in resignations of DETE and TAFE employees.
+The project begins with observation of the data, then cleaning and analysis.
+The purpose of the project is to throw more light on how dissatisfaction affect employees who resign across 
+different age groups and experience groups.
+
+As you go through the project please kindly give your feedbacks, thanks.
